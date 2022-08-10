@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'Sinersio Cloud'
+copyright = '2022, Sinersio'
 author = 'Graziella'
 
 release = '0.1'
