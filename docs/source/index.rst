@@ -1,20 +1,17 @@
 Dokumentacja Sinersio Cloud
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Sinersio Cloud ** jest platformą przeznaczoną do zarządzania infrastrukturą w chmurze. Dokumentacja została stworzona z myślą o użytkownikach, którzy chcą zapoznać się z funkcjami interfejsu użytkownika oraz możliwościami konfiguracyjnymi zasobów klienckich.
+Instrukcja dotyczy `Interfejsu użytkownika <https://sceng.sinersio.com/>`_ ,który oferuje *łatwe* oraz *instuicyjne* zarządzanie.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Sprawdź sekcję :doc:`usage` w celu uzyskania szczegółowych informacji, w tym :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development. Lumache has its documentation hosted on Read the Docs.
+   Instrukcja jest w trakcie tworzenia.
 
-Contents
---------
+Spis treści
+-----------
 
 .. toctree::
 
